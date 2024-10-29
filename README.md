@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **Pokey8680/Pokey8680** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ### 🌱 Goals
 - Exploring kernel development.
 - Contributing to more open-source projects.
--Trying to build ROMs for the Galaxy A54.
+- Trying to build ROMs for the Galaxy A54.
 
 ### 📫 Connect with Me!
 - [Telegram](https://t.me/Pokey8680)
