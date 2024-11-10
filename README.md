@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 🚀 **Android Enthusiast** | 💻 **Linux User** | 📱 **Custom ROM Developer**
 
 ### 🛠️ Skills & Tools
-- **Languages**: Bash, Python, C++
-- **Technologies**: LineageOS, TWRP, PHH-Treble
-- **OS**: Ubuntu
+- I compile random shit and hope that it works.
+- **Projects**: LineageOS, TWRP, PHH-Treble
+- **OS**: Debian Trixie
 
 ### 🚧 Projects
 - **[Device Trees for Galaxy A54](https://github.com/)** - Building custom Android 14 ROM for Samsung Galaxy A54.
