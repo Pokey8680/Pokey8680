@@ -17,26 +17,23 @@ Here are some ideas to get you started:
 
 # Hi, I'm Pokey8680 👋
 
-🚀 **Android Enthusiast** | 💻 **Linux User** | 📱 **Custom ROM Developer**
+I'm very lazy.
 
-### 🛠️ Skills & Tools
+### Stuff I've Done
 - I compile random shit and hope that it works.
-- **Projects**: LineageOS, TWRP, PHH-Treble
-- **OS**: Debian Trixie
+- **Projects**: LineageOS, ManualOTA, Treble Overlay
+- **OS**: Debian 12
 
 ### 🚧 Projects
 - **[Device Trees for Galaxy A54](https://github.com/)** - Building custom Android 14 ROM for Samsung Galaxy A54.
 - **[PHH-Treble Overlays](https://github.com/Pokey8680/a54x-gsi-overlay)** - Created overlays for better compatibility on GSIs.
 
 ### 🧑‍💻 Fun Facts
-- Started using Chrome in 2015 for extensions.
-- My 1TB WD Black HDD is still running smoothly.
-- My PC LEDs are... creatively managed!
-- Android user since 2014.
-- PC user since 2014.
+- I main a Galaxy A54.
+- My PC is from 2010.
 
 ### 🌱 Goals
-- Exploring kernel development.
+- Exploring Android development
 - Contributing to more open-source projects.
 - Trying to build ROMs for the Galaxy A54.
 
