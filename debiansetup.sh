@@ -54,6 +54,13 @@ sudo apt remove gnome-games firefox-esr -y
 echo "Done!"
 clear
 
+#clean up
+echo "Cleaning up..."
+echo " "
+sudo apt autoremove -y
+echo " "
+echo "Done!"
+
 #configure flatpak and gnome-software
 echo " "
 echo "Configuring Flatpak..."
