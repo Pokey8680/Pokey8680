@@ -21,12 +21,16 @@ I'm very lazy.
 
 ### Stuff I've Done
 - I compile random shit and hope that it works.
-- **Projects**: LineageOS, ManualOTA, Treble Overlay
-- **OS**: Debian 12
+- **Projects**: Lionfish, ManualOTA, A54 GSI Overlay
+- **OS**: Debian 13
 
 ### 🚧 Projects
-- **[Device Trees for Galaxy A54](https://github.com/)** - Building custom Android 14 ROM for Samsung Galaxy A54.
-- **[PHH-Treble Overlays](https://github.com/Pokey8680/a54x-gsi-overlay)** - Created overlays for better compatibility on GSIs.
+- **[Lionfish](https://github.com/Pokey8680/Lionfish)** - Magisk/KSU module to assist updating PHH-Based GSIs.
+- **[A54 GSI Overlay](https://github.com/Pokey8680/a54x-gsi-overlay)** - Created overlays for better compatibility on GSIs.
+
+### Bonus!
+- This repository includes a script that helps me on fresh installations of Debian, by installing preferred stuff
+ - Do not run any unfamiliar scripts unless you know what they do!
 
 ### 🧑‍💻 Fun Facts
 - I main a Galaxy A54.
@@ -35,7 +39,7 @@ I'm very lazy.
 ### 🌱 Goals
 - Exploring Android development
 - Contributing to more open-source projects.
-- Trying to build ROMs for the Galaxy A54.
+- Trying to learn Kotlin.
 
 ### 📫 Connect with Me!
 - [Telegram](https://t.me/Pokey8680)
